@@ -1,9 +1,9 @@
 This web app is developed by BitsNBytes team of IIIT Nagpur for Codeflow hackathon (12-14 sept)
 Group-members:
-BT18CSE052-Pulkit Batra
-BT18CSE056-Gopal Pandey
-BT18CSE099-Nimish Phalnikar
-BT18CSE101-Shubham Sagar
+BT18CSE052-Pulkit Batra (Contributor in Website Creation)
+BT18CSE056-Gopal Pandey (Contributor in Website Creation)
+BT18CSE099-Nimish Phalnikar (Contributor in App Development)
+BT18CSE101-Shubham Sagar (Contributor in App Development)
 
 -------------------------Instructions----------------------
 1.To learn how to operate the web application, watch instruction.mp4"
