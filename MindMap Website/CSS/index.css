@@ -1,0 +1,77 @@
+.navbar {
+    width: 100%;
+    background-color: #e2cc92;
+    white-space: nowrap;
+    overflow: auto;
+}
+
+.navbar a {
+    float: left;
+    text-align: center;
+    padding: 15px;
+    color: #00486c;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 5px;
+}
+#c{                                                 /*default selection of center alignment */
+    background-color: #00486c;
+    color: #e2cc92;
+}
+.navbar a:hover {
+    background-color: #00486c;
+    color: #e2cc92;
+
+}
+#logo:hover{
+    background-color:   #e2cc92;
+    
+}
+
+@media screen and (max-width: 500px) {
+    .navbar a {
+        float: none;
+        display: block;
+    }
+}
+
+a[title]:hover:after {
+    content: attr(title);
+    position: absolute;
+    top: -100%;
+    left: 0;
+    text-decoration-color: red;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f0f0f0;
+}
+
+.navbar form{
+    float: left;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.navbar button{
+     background-color: #00486c;
+    color: #e2cc92;
+}
+
+.navbar button:hover{
+    background-color:#00486c;
+    color:white;
+}
+
+#upload{
+    display:none;
+}
+#upload2{
+    display:none;
+}
