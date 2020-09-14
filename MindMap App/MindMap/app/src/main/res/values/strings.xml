@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MindMap</string>
+    <string name="Undo">Undo</string>
+    <string name="Redo">Redo</string>
+    <string name="Add">Add</string>
+    <string name="save">Save</string>
+</resources>

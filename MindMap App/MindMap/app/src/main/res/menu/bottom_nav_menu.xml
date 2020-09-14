@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/Undo"
+        android:icon="@drawable/ic_baseline_undo_24"
+        android:title="@string/Undo" />
+
+    <item
+        android:id="@+id/Save"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="@string/save" />
+
+    <item
+        android:id="@+id/Redo"
+        android:icon="@drawable/ic_baseline_redo_24"
+        android:title="@string/Redo" />
+
+</menu>
